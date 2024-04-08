@@ -21,4 +21,4 @@ Hilpisch, Y. J. (2018). Python for Finance. O’Reilly.
 
 Cryer, J. D., Chan, K. (2008). Time Series Analysis. Springer.
 ## Remarks
-This research was carried out between April and July 2023, therefore, more recent events, i.e. the approval of 11 Bitcoin ETFs by the SEC in 2024, which caused billions of dollars to flow into Bitcoin leading to an earlier than expected new all time high, were not taken into account. The market of cryptocurrencies is rapidly evolving and even a small piece of information can influence it greatly; consequently, research must be realized continuously and kept updated. 
+This research was carried out between April and July 2023, therefore, more recent events, i.e. the approval of the first 11 Bitcoin ETFs by the SEC in 2024, which caused billions of dollars to flow into Bitcoin leading to an earlier than expected new all time high, could have not been taken into account. The market of cryptocurrencies is rapidly evolving and even a small piece of information can influence it greatly; consequently, research must be realized continuously and kept updated.
